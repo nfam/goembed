@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github/nfam/goembed"
+	"github.com/nfam/goembed"
 )
 
 func main() {

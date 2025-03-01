@@ -1,4 +1,4 @@
-module github/nfam/goembed
+module github.com/nfam/goembed
 
 go 1.20
 
